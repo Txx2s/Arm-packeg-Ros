@@ -35,6 +35,7 @@ Steep 9-creating catkin workspace (sudo apt-get install ros-noetic-catkin)
 
 (catkin_make)
 
+
 Steep 10-package for robot arm (git clone https://github.com/smart-methods/arduino_robot_arm.git) 11-other important ROS packages
 
 (rosdep install --from-paths src --ignore-src -r –y)
@@ -57,4 +58,8 @@ at the end of the (bashrc) file add the follwing line (source /home/fay/catkin_w
 
 Steep 12- the end (roslaunch robot_arm_pkg check_motors.launch)
 
+
+https://user-images.githubusercontent.com/85820553/128150073-4af9d6d2-d2f8-4c85-a5be-738817bb9b8b.png
+
+https://user-images.githubusercontent.com/85820553/128150073-4af9d6d2-d2f8-4c85-a5be-738817bb9b8b.png
 
