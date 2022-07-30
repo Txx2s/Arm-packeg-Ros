@@ -57,4 +57,4 @@ at the end of the (bashrc) file add the follwing line (source /home/fay/catkin_w
 
 Steep 12- the end (roslaunch robot_arm_pkg check_motors.launch)
 
-##illustrative pictures
+
