@@ -56,6 +56,10 @@ at the end of the (bashrc) file add the follwing line (source /home/fay/catkin_w
 
 (source ~/.bashrc)
 
-Steep 12- the end (roslaunch robot_arm_pkg check_motors.launch)
+Steep 12-the end (roslaunch robot_arm_pkg check_motors.launch)
+
+![image](https://user-images.githubusercontent.com/108034996/182002775-336ac894-64aa-405b-a87c-fceb29a01b13.png)
+
+![image](https://user-images.githubusercontent.com/108034996/182002803-82394fc8-9fd8-47af-a9a1-68e6b41848ef.png)
 
 
